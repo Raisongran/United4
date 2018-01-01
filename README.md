@@ -3,7 +3,7 @@
 ### Try it in your browser!
 Resize your browser to be phone-sized and visit https://niles.xyz/united
 
-In 4.1.9b I added mode beautiful music from Steins;Gate, Elite: Dangerous, etc.
+In 4.1.9b I added more beautiful music from Steins;Gate, Elite: Dangerous, etc.
 
 ### Try it on your phone!
 4.1.9: https://github.com/nilesr/United4/releases/tag/4.1.9
